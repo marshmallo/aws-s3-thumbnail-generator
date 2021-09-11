@@ -6,7 +6,7 @@ Thumbnail generator using [Serverless Framework](https://serverless.com/).
 
 2. Edit the `serverless.yml` file and replace profile and region name with actual one.
 
-3. The project requires deploying additional dependencies to be packaged along with the code to Lambda. For this, install [Serverless Python Requirements](https://serverless.com/) plugin.
+3. The project requires deploying additional dependencies to be packaged along with the code to Lambda. For this, install [Serverless Python Requirements](https://www.serverless.com/plugins/serverless-python-requirements) plugin.
 ```
 $ npm install --save serverless-python-requirements
 ```
